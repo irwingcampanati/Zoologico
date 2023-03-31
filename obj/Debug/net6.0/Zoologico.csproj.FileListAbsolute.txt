@@ -1,0 +1,15 @@
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.csproj.AssemblyReference.cache
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.AssemblyInfoInputs.cache
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.AssemblyInfo.cs
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Irwing\Zoologico\bin\Debug\net6.0\Zoologico.exe
+C:\Irwing\Zoologico\bin\Debug\net6.0\Zoologico.deps.json
+C:\Irwing\Zoologico\bin\Debug\net6.0\Zoologico.runtimeconfig.json
+C:\Irwing\Zoologico\bin\Debug\net6.0\Zoologico.dll
+C:\Irwing\Zoologico\bin\Debug\net6.0\Zoologico.pdb
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.dll
+C:\Irwing\Zoologico\obj\Debug\net6.0\refint\Zoologico.dll
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.pdb
+C:\Irwing\Zoologico\obj\Debug\net6.0\Zoologico.genruntimeconfig.cache
+C:\Irwing\Zoologico\obj\Debug\net6.0\ref\Zoologico.dll
